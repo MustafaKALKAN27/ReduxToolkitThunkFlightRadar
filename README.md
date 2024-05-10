@@ -8,3 +8,4 @@ react-leaflet
 react-paginate
 
 <img src="screen.gif"/># ReduxToolkitThunkFlightRadar
+# ReduxToolkitThunkFlightRadar
